@@ -6,3 +6,5 @@ hot sauce
 onion
 jalapenos
 chilli flakes
+salt
+pepper
